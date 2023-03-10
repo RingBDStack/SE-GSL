@@ -3,8 +3,9 @@ code for "SE-GSL: A General and Effective Graph Structure Learning Framework thr
 
 # Overview
 - model: implement of different GNN model
-- utils/max1SE.py: One-dimensional structural entropy k-selector
-- utils/reshape.py: node-pair sampling
+- utils/max1SE.py: One-dimensional structural entropy k-selector.
+- utils/coding_tree.py: Encoding tree defination and optimization.
+- utils/reshape.py: node-pair sampling.
 - utils/utils_data.py, utils/utils.py: data preprocessing code from [Geom-GCN](https://github.com/graphdml-uiuc-jlu/geom-gcn)
 
 # Requirements
